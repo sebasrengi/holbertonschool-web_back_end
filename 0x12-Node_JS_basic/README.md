@@ -39,6 +39,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 6. Create a small HTTP server using Express
 * [ ] 7. Create a more complex HTTP server using Express
 * [ ] 8. Organize a complex HTTP server using Express
-
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
